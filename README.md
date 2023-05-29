@@ -12,3 +12,4 @@ git add
 git commit
 ```
 
+![](/assets/images/electrocat.png)
